@@ -19,7 +19,7 @@ Data wrangling is performed on the Ames Housing dataset. Data wrangling consists
 
 <a name="upcoming"></a>
 ### 2. Upcoming
-- Exploratory data analysis (EDA) -To determine the features/variables that are predictive of the house prices.
+- Exploratory data analysis (EDA) -To determine the features/variables that are predictive of house prices.
 - Training machine learning model - To select the best-performing machine learning model.
 
 <a name="programming_languages"></a>
